@@ -1,0 +1,11 @@
+*.pyc
+.DS_Store
+
+.idea/
+
+env/
+
+static/
+media/
+
+secret.txt
