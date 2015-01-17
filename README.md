@@ -16,9 +16,9 @@ and some other details about the user that can be checked by the driver.
 Anyway, I think this can work as an open-source project. I don't see a good
 reason in this day and age that a website this simple contains enough "special
 sauce" to keep it under wraps. Plus, since none of us really aspire to wealth,
-we don't really give a damn if you fork and put up a better looking clone.
-We hope people will contribute to this project, since it seems like a genuinely 
-good idea.
+we don't really give a damn if you think you can do a better job, fork and put 
+up a better looking clone. We hope people will contribute to this project, 
+since it seems like a genuinely good idea.
 
 I believe this project has the capibility to eventually make domestic parcel
 services obsolete. If you can put deliver a package at the expense of a few
